@@ -1,0 +1,154 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/nikhi/Desktop/VLSI School/Class Programs/Async FIFO
+vcdc
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1790334881
+!i10b 1
+!s100 Hm>ODk8kPD^;g<MkzSKHI0
+I:_5VIH6S@W@Ub=;MY6f`B2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 designn_sv_unit
+S1
+R0
+Z5 w1790327483
+Z6 8designn.sv
+Z7 Fdesignn.sv
+L0 65
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1790334881.000000
+Z10 !s107 designn.sv|
+Z11 !s90 -reportprogress|300|designn.sv|+acc|
+!i113 1
+Z12 o+acc
+Z13 tCvgOpt 0
+vfifo
+R1
+R2
+!i10b 1
+!s100 <o<Ijmn6]1FJ]WIkJEi:H1
+IhG;ZI>^Z>YmQN]0OezdAM3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 96
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vread_domain
+R1
+R2
+!i10b 1
+!s100 >m;@jC7O`KTYX=oP?ASIF2
+IO=MQgZ=[^NWiA<X[:?NgQ0
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 33
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vtb
+R1
+R2
+!i10b 1
+!s100 2BHFCh8Edg>M`1X3:8bzm0
+IK=7=^lzQ;El6>UhCT_0`12
+R3
+!s105 tb_sv_unit
+S1
+R0
+w1790334872
+8tb.sv
+Ftb.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 tb.sv|
+!s90 -reportprogress|300|tb.sv|+acc|
+!i113 1
+R12
+R13
+vtop
+R1
+R2
+!i10b 1
+!s100 ZEKPcaHOR;V99U7YMWie<0
+IWAZ_odLBCGEM7lGRMom=L0
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 129
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vwrite_domain
+R1
+R2
+!i10b 1
+!s100 ?EDi_cCAj?0W7kiD52:h61
+IDQ?QBk4ln6WZl3>A:XE[a0
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13

@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/nikhi/Desktop/VLSI School/Class Programs/Test 1
+vmux8to1
+Z1 !s110 1788070400
+!i10b 1
+!s100 UPz6Ya;]S_GX;g:<?lHWl3
+ICSgZP];HZl`7^z`0PFS>71
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1788070396
+88to1mux.v
+F8to1mux.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1788070400.000000
+!s107 8to1mux.v|
+!s90 -reportprogress|300|8to1mux.v|
+!i113 1
+Z5 tCvgOpt 0
+vpriority_encoder_8to3
+R1
+!i10b 1
+!s100 ?`9TXP_3O=O^RghmDgaH@0
+INGb>iOh1oD=j43i]]o72o1
+R2
+R0
+w1788070233
+88to3pri_enc.v
+F8to3pri_enc.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1788070399.000000
+!s107 8to3pri_enc.v|
+!s90 -reportprogress|300|8to3pri_enc.v|
+!i113 1
+R5
+vstage2
+R1
+!i10b 1
+!s100 ba<EOEE9:bX0ISX4][DWi2
+I5iolai5RBfc9;Wi4:QNHC1
+R2
+R0
+w1788070251
+8dut.v
+Fdut.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 dut.v|
+!s90 -reportprogress|300|dut.v|
+!i113 1
+R5
+vtb
+R1
+!i10b 1
+!s100 32Z<7>2M8Z_ZKHDOVgOO?2
+ImHhSXhnU8GR@;kET>;iOT1
+R2
+R0
+w1788070201
+8tb.v
+Ftb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 tb.v|
+!s90 -reportprogress|300|tb.v|
+!i113 1
+R5

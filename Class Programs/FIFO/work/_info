@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/nikhi/Desktop/VLSI School/Class Programs/FIFO
+vfifo
+Z1 !s110 1789830188
+!i10b 1
+!s100 hz>;8X7eDed^6>`JBWkJP3
+IWDL_^[Ec2]X>JIhnZ4n<D1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1789829980
+8design.v
+Fdesign.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1789830188.000000
+!s107 design.v|
+!s90 -reportprogress|300|design.v|
+!i113 1
+Z5 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 __DXZn[So`]_4hn`k@TA51
+I4:PlARL?W_hQ2mhTTf=G^1
+R2
+R0
+w1789829982
+8tb.v
+Ftb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 tb.v|
+!s90 -reportprogress|300|tb.v|
+!i113 1
+R5

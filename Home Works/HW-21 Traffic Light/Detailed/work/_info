@@ -1,0 +1,70 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/nikhi/Desktop/VLSI School/Home Works/HW-21 Traffic Light/Detailed
+vfsm
+!s110 1788880226
+!i10b 1
+!s100 Y:S2ClglC2P_Gn8AjOjNa1
+I31J4kNVLV__:1og0RVV^:3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1788880215
+Z2 8design.v
+Z3 Fdesign.v
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1788880226.000000
+Z6 !s107 design.v|
+Z7 !s90 -reportprogress|300|design.v|
+!i113 1
+Z8 tCvgOpt 0
+vtb
+!s110 1788880227
+!i10b 1
+!s100 >>JP;@iHzJm9j4XA_3S`[3
+I6mKA_eD;DE]5B@2Ff66mR1
+R1
+R0
+w1788880214
+8tb.v
+Ftb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 tb.v|
+!s90 -reportprogress|300|tb.v|
+!i113 1
+R8
+vtimer
+!s110 1788849456
+!i10b 1
+!s100 i?ZSBAOY<3KoZ]QfR`P=>2
+IaM_WZT32QGA:[S=^=DO021
+R1
+R0
+w1788849448
+R2
+R3
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1788849456.000000
+R6
+R7
+!i113 1
+R8

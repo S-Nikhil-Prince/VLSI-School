@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/nikhi/Desktop/VLSI School/AndGate
+vandgate
+Z1 !s110 1786354863
+!i10b 1
+!s100 2ONh=SSmz=M?WU[c?j>EO1
+IAQF3_086k3^67MLRe:fE50
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1786354824
+8dut.v
+Fdut.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1786354862.000000
+!s107 dut.v|
+!s90 -reportprogress|300|dut.v|
+!i113 1
+Z4 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 ]bP5c?9glz=6e?h_b@Hja0
+IYW?9BcY?;oHb_JSUnFhl]0
+R2
+R0
+w1786354859
+8tb.v
+Ftb.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1786354863.000000
+!s107 tb.v|
+!s90 -reportprogress|300|tb.v|
+!i113 1
+R4
